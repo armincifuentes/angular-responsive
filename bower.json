@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/armincifuentes/angular-responsive.git"
+    "url": "https://github.com/armincifuentes/angular-responsive.git"
   },
   "keywords": [
     "angular",
