@@ -1,0 +1,30 @@
+{
+  "name": "angular-responsive",
+  "version": "0.1.0",
+  "authors": [
+    "Armin Cifuentes (http://armincifuentes.cl)"
+  ],
+  "description": "Nifty directives to help you build responsive apps.",
+  "main": "dist/angular-responsive.js",
+  "dependencies": {
+    "angular": "^1.2.x",
+  },
+  "devDependencies": {
+    "coffeescript": "~1.10.0"
+  },
+  "keywords": [
+    "angular",
+    "directive",
+    "responsive",
+    "layout"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/bower_components",
+    "test",
+    "tests"
+  ]
+}
