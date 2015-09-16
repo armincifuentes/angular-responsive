@@ -5,7 +5,7 @@ Angular Responsive
 
 Installation
 ------------
-Business as usual: `bower install angular-responsive --save`
+Business as usual: `bower install cfts-angular-responsive --save`
 
 
 
