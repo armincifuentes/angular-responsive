@@ -7,7 +7,7 @@
   "description": "Nifty directives to help you build responsive apps.",
   "main": "dist/angular-responsive.js",
   "dependencies": {
-    "angular": "^1.2.x",
+    "angular": "^1.2.x"
   },
   "devDependencies": {
     "coffeescript": "~1.10.0"
