@@ -12,6 +12,10 @@
   "devDependencies": {
     "coffeescript": "~1.10.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/armincifuentes/angular-responsive.git"
+  },
   "keywords": [
     "angular",
     "directive",
